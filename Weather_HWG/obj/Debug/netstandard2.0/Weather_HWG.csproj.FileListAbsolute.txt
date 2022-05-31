@@ -1,0 +1,15 @@
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\bin\Debug\netstandard2.0\Weather_HWG.deps.json
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\bin\Debug\netstandard2.0\Weather_HWG.dll
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\bin\Debug\netstandard2.0\Weather_HWG.pdb
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\obj\Debug\netstandard2.0\Weather_HWG.csproj.AssemblyReference.cache
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\obj\Debug\netstandard2.0\Weather_HWG.GeneratedMSBuildEditorConfig.editorconfig
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\obj\Debug\netstandard2.0\App.xaml.g.cs
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\obj\Debug\netstandard2.0\Weather_HWG.AssemblyInfoInputs.cache
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\obj\Debug\netstandard2.0\Weather_HWG.AssemblyInfo.cs
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\obj\Debug\netstandard2.0\Weather_HWG.csproj.CoreCompileInputs.cache
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\obj\Debug\netstandard2.0\XamlC.stamp
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\obj\Debug\netstandard2.0\Weather_HWG.dll
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\obj\Debug\netstandard2.0\refint\Weather_HWG.dll
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\obj\Debug\netstandard2.0\Weather_HWG.pdb
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\obj\Debug\netstandard2.0\ref\Weather_HWG.dll
