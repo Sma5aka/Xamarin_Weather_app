@@ -1,12 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "BHQgO15mejx/hKYD8sZbleZ7IAoCmXYP+N+BgSFymzY5gyVL4AwGH7RhJGfgPRZ9eEiLXb0/MsSvJp5mJx3pKA==",
+  "dgSpecHash": "NwHIXjI20Xat6dmYBh7B2BG1XA2/w15bXnL1hrzs0uJ+XX6g5aFQdP++VQdvz8agpUgLBEqW1t1qWwgHOD9lRg==",
   "success": true,
   "projectFilePath": "B:\\new_workplace\\HW2_own\\Weather_HWG\\Weather_HWG\\Weather_HWG.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\vpros\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\vpros\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\vpros\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\vpros\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\vpros\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\vpros\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\vpros\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\vpros\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\vpros\\.nuget\\packages\\system.text.json\\6.0.4\\system.text.json.6.0.4.nupkg.sha512",
+    "C:\\Users\\vpros\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\vpros\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\vpros\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],

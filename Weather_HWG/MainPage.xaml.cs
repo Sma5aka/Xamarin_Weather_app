@@ -14,9 +14,10 @@ namespace Weather_HWG
         public MainPage()
         {
             InitializeComponent();
+            foo();
             
         }
-        async void new_ac()
+        async void foo()
         {
             var current = Connectivity.NetworkAccess;
 

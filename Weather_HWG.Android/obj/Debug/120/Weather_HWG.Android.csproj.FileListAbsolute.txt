@@ -627,3 +627,10 @@ B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\stamp\_Co
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\assets\Microsoft.Bcl.AsyncInterfaces.dll
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\assets\System.Buffers.dll
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\assets\System.Memory.dll
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\assets\System.Text.Encodings.Web.dll
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\assets\System.Text.Json.dll
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\assets\System.Threading.Tasks.Extensions.dll
