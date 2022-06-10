@@ -5,7 +5,12 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather_HWG.Android", "Weather_HWG.Android\Weather_HWG.Android.csproj", "{C789186F-6196-4974-8BC6-1D97D6A4765F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather_HWG", "Weather_HWG\Weather_HWG.csproj", "{242A05D4-3B60-49BB-8DB5-E3EC7343C177}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weather_HWG", "Weather_HWG\Weather_HWG.csproj", "{242A05D4-3B60-49BB-8DB5-E3EC7343C177}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{08EB029F-EB13-422F-B463-ECD034E11347}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
