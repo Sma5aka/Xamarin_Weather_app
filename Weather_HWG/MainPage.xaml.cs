@@ -14,6 +14,8 @@ namespace Weather_HWG
         public MainPage()
         {
             InitializeComponent();
+
+            foo();
             foo();
             
         }
