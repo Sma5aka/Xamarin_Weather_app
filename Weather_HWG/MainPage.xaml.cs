@@ -20,7 +20,7 @@ namespace Weather_HWG
         {
             InitializeComponent();
 
-            check_connection();
+            //check_connection();
 
             APIHelper aPIHelper = new APIHelper();
             Get_response();
@@ -41,10 +41,10 @@ namespace Weather_HWG
 
             async void Get_response()
             {
-                var result = await aPIHelper.Get_response();
+                string result = await aPIHelper.Get_response();
 
-                List<Weather_response> weather_Responses = JsonConvert.DeserializeObject<List<Weather_response>>(result);
-                coord.Text = weather_Responses[0].coords.lat.ToString();
+                Weather_response weather_Responses = JsonConvert.DeserializeObject<Weather_response>(result);
+                tempTxt.Text = Math.Round(weather_Responses.main.temp - 273.15,1).ToString();
 
                 //добавить вывод на экран
             }

@@ -23,13 +23,12 @@ namespace Weather_HWG
 
             string curr_weather_rq = "https://api.openweathermap.org/data/2.5/weather?lat="+lat.ToString()+"&lon="+lon.ToString()+"&appid="+appid;
 
-            Task<string> responseTask = Client.GetStringAsync(curr_weather_rq);
-            string response = await responseTask;
+            string responseTask = await Client.GetStringAsync(curr_weather_rq);
 
-            return response;
+            return responseTask;
         }
 
-        public async Task<string> Get_coord(string city = "Moscow")
+        public async Task<string> Get_coord(string city = "Vladivostok")
         {
             string appid = "2f5c4fab286fa279ae7141338e7e967a";
 

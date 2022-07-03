@@ -22,8 +22,8 @@ namespace Weather_HWG
     
     public class Weather_response
     {
-        public Coord coords { get; set; }
-        public Weather[] weathers { get; set; }
+        public Coord coord { get; set; }
+        public Weather[] weather { get; set; }
         public string basee { get; set; }
         public Main_W main { get; set; }
         public float visibility { get; set; }
@@ -38,8 +38,8 @@ namespace Weather_HWG
     }
     public class Coord
     {
-        public double lat { get; set; }
         public double lon { get; set; }
+        public double lat { get; set; }
 
     }
     public class Weather
