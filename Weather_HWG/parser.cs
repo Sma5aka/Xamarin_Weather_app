@@ -64,6 +64,7 @@ namespace Weather_HWG
     {
         public float speed { get; set; }
         public float deg { get; set; }
+        public float gust { get; set; }
 
     }
     public class Clouds
