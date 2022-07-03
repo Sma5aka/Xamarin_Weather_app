@@ -1,2 +1,2 @@
-AdbTarget=-s b35b7144
+AdbTarget=-s localhost:5556
 AdbOptions=

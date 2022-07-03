@@ -231,8 +231,6 @@ B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\a
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\typemaps.arm64-v8a.s
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\typemaps.armeabi-v7a.s
-B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\typemaps.x86.s
-B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\typemaps.x86_64.s
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\typemaps.armeabi-v7a-shared.inc
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\typemaps.shared.inc
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\AndroidManifest.xml
@@ -245,8 +243,6 @@ B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\static.fl
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\buildid.txt
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\environment.arm64-v8a.s
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\environment.armeabi-v7a.s
-B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\environment.x86.s
-B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\environment.x86_64.s
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\src\androidx\annotation\experimental\R.java
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
@@ -601,24 +597,14 @@ B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\b
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\src\com\companyname\weather_hwg\R.java
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\compressed_assemblies.arm64-v8a.s
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.s
-B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\compressed_assemblies.x86.s
-B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\compressed_assemblies.x86_64.s
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\typemaps.arm64-v8a.o
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\typemaps.armeabi-v7a.o
-B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\typemaps.x86.o
-B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\typemaps.x86_64.o
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\environment.arm64-v8a.o
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\environment.armeabi-v7a.o
-B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\environment.x86.o
-B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\environment.x86_64.o
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\compressed_assemblies.arm64-v8a.o
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.o
-B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\compressed_assemblies.x86.o
-B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\compressed_assemblies.x86_64.o
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\app_shared_libraries\arm64-v8a\libxamarin-app.so
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\app_shared_libraries\armeabi-v7a\libxamarin-app.so
-B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\app_shared_libraries\x86\libxamarin-app.so
-B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\app_shared_libraries\x86_64\libxamarin-app.so
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\bin\classes.dex
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\stamp\_CleanIntermediateIfNeeded.stamp
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\stamp\_CompileToDalvik.stamp
@@ -634,3 +620,4 @@ B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\a
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\assets\System.Text.Encodings.Web.dll
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\assets\System.Text.Json.dll
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\assets\System.Threading.Tasks.Extensions.dll
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\assets\Newtonsoft.Json.dll
