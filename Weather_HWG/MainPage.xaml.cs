@@ -23,7 +23,7 @@ namespace Weather_HWG
             check_connection();
 
             APIHelper aPIHelper = new APIHelper();
-            
+            Get_response();
 
             async void check_connection()
             {
@@ -39,7 +39,17 @@ namespace Weather_HWG
                 }
             }
 
-            refresh.Clicked += async (sender, e) => {
+            async void Get_response()
+            {
+                var result = await aPIHelper.Get_response();
+
+                List<Weather_response> weather_Responses = JsonConvert.DeserializeObject<List<Weather_response>>(result);
+                coord.Text = weather_Responses[0].coords.lat.ToString();
+
+                //добавить вывод на экран
+            }
+
+            /*refresh.Clicked += async (sender, e) => {
 
                 APIHelper textTask = new APIHelper();
 
@@ -48,7 +58,7 @@ namespace Weather_HWG
                 here.Text = result;
                 
                 newlay.ResolveLayoutChanges();
-            };
+            };*/
         }
     }
 }

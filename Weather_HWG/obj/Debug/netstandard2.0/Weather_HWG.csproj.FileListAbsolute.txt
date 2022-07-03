@@ -13,3 +13,4 @@ B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\obj\Debug\netstandard2.0\Weathe
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\obj\Debug\netstandard2.0\refint\Weather_HWG.dll
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\obj\Debug\netstandard2.0\Weather_HWG.pdb
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\obj\Debug\netstandard2.0\ref\Weather_HWG.dll
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG\obj\Debug\netstandard2.0\Views\vysor_page.xaml.g.cs

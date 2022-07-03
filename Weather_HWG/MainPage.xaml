@@ -2,12 +2,21 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Weather_HWG.MainPage">
-    <ScrollView>
-        <StackLayout  x:Name="newlay">
-            <Button x:Name="refresh" Text="Refresh"></Button>
-            <Label x:Name="here" HorizontalOptions="FillAndExpand" FontSize="Small" TextColor="Black" VerticalOptions="CenterAndExpand"/>
-        </StackLayout>
-        
-    </ScrollView>
+
+    <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" RowSpacing="0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="1" HeightRequest="160" ColumnSpacing="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label x:Name="coord"/>
+        </Grid>
+    </Grid>
 
 </ContentPage>
