@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "28r9pc51GAuIHfvKCNiSae9en8zU0iYEOqvlhZGs3MxXlycd9LlUHCFK4KuWdvwMB9dzPj7/50uHJZv4LcZNNQ==",
+  "dgSpecHash": "Ix5z1C5CVJ+mQ2vv73yh1X5UwbSvZfsEHFGZJ5YxmBRJS09YeL6Sau/D9dp2a2xCu2E9Sdeyvrs6JHCVN8gXIA==",
   "success": true,
   "projectFilePath": "B:\\new_workplace\\HW2_own\\Weather_HWG\\Weather_HWG\\Weather_HWG.csproj",
   "expectedPackageFiles": [
@@ -13,10 +13,10 @@
     "C:\\Users\\vpros\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\vpros\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\vpros\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\vpros\\.nuget\\packages\\system.text.json\\6.0.4\\system.text.json.6.0.4.nupkg.sha512",
+    "C:\\Users\\vpros\\.nuget\\packages\\system.text.json\\6.0.5\\system.text.json.6.0.5.nupkg.sha512",
     "C:\\Users\\vpros\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\vpros\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\vpros\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\vpros\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\vpros\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512"
   ],
   "logs": []
 }
