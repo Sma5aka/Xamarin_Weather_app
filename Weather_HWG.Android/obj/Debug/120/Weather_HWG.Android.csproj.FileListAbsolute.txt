@@ -622,3 +622,4 @@ B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\a
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\assets\System.Threading.Tasks.Extensions.dll
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\android\assets\Newtonsoft.Json.dll
 B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\res\drawable\arrow.png
+B:\new_workplace\HW2_own\Weather_HWG\Weather_HWG.Android\obj\Debug\120\res\drawable\propeller.png

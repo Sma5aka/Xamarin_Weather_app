@@ -44,6 +44,16 @@ namespace Weather_HWG
             }
         }
 
+        private async void Propeller_anim(bool x, float speed)
+        {
+            if (!x){ return;}
+
+            int final_speed = (int)speed * 10000;
+            while (x)
+            {
+                await propellerImg.RelRotateTo(360, (uint)final_speed);
+            }
+        }
         private async void WindArr_rotater(float deg = 0)
         {
             float needed = deg - 45;
@@ -122,10 +132,12 @@ namespace Weather_HWG
 
             Weather_response weather_Responses = JsonConvert.DeserializeObject<Weather_response>(result);
             tempTxt.Text = Math.Round(weather_Responses.main.temp - 273.15, 1).ToString();
-            humidiryTxt.Text = weather_Responses.main.humidity.ToString() + "💧";
-            windTxt.Text = weather_Responses.wind.speed.ToString() + @" m/s";
-            windDir.Text = Wind_Direction(weather_Responses.wind.deg);
+            humidiryTxt.Text = weather_Responses.main.humidity.ToString() + "%💧";
+
+            windTxt.Text = weather_Responses.wind.speed.ToString() + " " + Wind_Direction(weather_Responses.wind.deg);
             WindArr_rotater(weather_Responses.wind.deg);
+            Propeller_anim(true, weather_Responses.wind.speed);
+
             pressureTxt.Text = weather_Responses.main.pressure.ToString() + " hpa";
             cloudsTxt.Text = weather_Responses.clouds.all.ToString() + "%";
             cityTxt.Text = weather_Responses.name.ToString();
